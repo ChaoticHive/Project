@@ -1,0 +1,10 @@
+Rusted Chainmill, 0, 20, 25
+Aerons Chipped Helm, 0, 50, 60
+Fleece of Steel ,0, 75, 110
+Armour of the Meadow, 0, 100, 150
+Shins of Asgard, 0, 125, 200
+Crown of Mist, 0, 150, 250
+Shackles of the Fallen, 0, 200, 400
+Temple of the Dead's Gauntlets, 0, 400, 1000
+Time Keepers Gloves, 0, 750, 1500
+Armour of the Radiant, 0, 1500, 4000 

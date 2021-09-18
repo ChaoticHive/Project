@@ -1,0 +1,4 @@
+Basic Sword, 10, 0, 50
+Long Sword, 12, 0, 50
+Basic Shield, 0, 10, 50
+Heavy Shield, 0, 12, 50

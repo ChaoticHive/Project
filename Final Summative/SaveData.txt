@@ -1,0 +1,1 @@
+easy, Short Sword, 10, 0, 15, Iron Armor, 0, 125, 15, 200, 50, 20, 51240, 3

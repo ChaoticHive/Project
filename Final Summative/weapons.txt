@@ -1,0 +1,10 @@
+Rusty Spoon, 15, 0, 10
+Plastic Sword, 20, 0, 50
+Neon Metal Whip, 28, 0, 90
+Navy Spear, 35, 0, 125
+Locksmiths Hammer, 40, 0, 200
+Garen The Mighty's Mace, 50, 0, 250
+Time Wizards Rod, 100, 0, 500
+Pencil of Doom, 175, 0, 800
+Plasma Rifle, 250, 0, 1250
+Lightsaber, 500, 0, 2500
